@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The test case verifies that a CRM user can acc profiles details</description>
+   <name>01.02.02.01 - CRM user profiles access</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35af6df2-ffe5-46dc-8c37-e5698c0f8716</testCaseGuid>
+</TestCaseEntity>

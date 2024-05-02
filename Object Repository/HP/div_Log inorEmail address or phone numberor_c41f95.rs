@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log inorEmail address or phone numberor_c41f95</name>
+   <tag></tag>
+   <elementGuidId>5d30145e-fc28-45ed-9ad7-e5779665f72d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-AxmLO.bRvQpG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-container']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Log inorEmail address or phone numberorPasswordDon't remember your password?Reme&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1cf92190-a7d2-4083-9d7f-f61c3559d218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-AxmLO bRvQpG</value>
+      <webElementGuid>893b6b91-e314-4e94-a341-dc7ba8527ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log inorEmail address or phone numberorPasswordDon't remember your password?Remember meLog inDo not have an account? Sign up</value>
+      <webElementGuid>30d37715-16ec-46be-9988-657827edd612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-container&quot;)/div[@class=&quot;sc-AxmLO bRvQpG&quot;]</value>
+      <webElementGuid>38ef4e94-0183-4f98-ac24-b94e5568c14b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-container']/div</value>
+      <webElementGuid>b652f0e5-3dc7-45d5-adde-c600431b994a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>ce6069af-bb6b-4000-a034-a1c62269d207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Log inorEmail address or phone numberorPasswordDon&quot; , &quot;'&quot; , &quot;t remember your password?Remember meLog inDo not have an account? Sign up&quot;) or . = concat(&quot;Log inorEmail address or phone numberorPasswordDon&quot; , &quot;'&quot; , &quot;t remember your password?Remember meLog inDo not have an account? Sign up&quot;))]</value>
+      <webElementGuid>b4963601-e3ab-4e85-ba3c-2fb9ae803176</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

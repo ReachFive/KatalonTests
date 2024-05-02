@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hosted Pages (1)</name>
+   <tag></tag>
+   <elementGuidId>01877cb0-2926-458c-9f94-0f973c6a140a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(4) > a.ZEeIZ > div.IKMED > span.m71by</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/nav/div/div/span[4]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6ced1a48-390d-4e9e-9ad1-d93ebe321809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m71by</value>
+      <webElementGuid>fa5692b2-a7b6-48c8-a202-3d9fe246433a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hosted Pages</value>
+      <webElementGuid>0da4efc1-3d22-47f3-96d3-870df428d801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/nav[@class=&quot;xhik7&quot;]/div[@class=&quot;NI0dP&quot;]/div[1]/span[4]/a[@class=&quot;ZEeIZ&quot;]/div[@class=&quot;IKMED&quot;]/span[@class=&quot;m71by&quot;]</value>
+      <webElementGuid>0c4c4a16-2538-4857-a7da-5412285df487</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/nav/div/div/span[4]/a/div/span</value>
+      <webElementGuid>eb1d6cea-76f5-4af2-b7a7-823ab2255908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom scopes'])[1]/following::span[2]</value>
+      <webElementGuid>2b6885d3-cc06-4730-8e7a-be8db1d01001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::span[4]</value>
+      <webElementGuid>9a14758d-1877-4500-aa14-35ac562e70b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[1]/preceding::span[1]</value>
+      <webElementGuid>d15bae3a-fdaf-401d-8339-6368256d37c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Providers'])[1]/preceding::span[3]</value>
+      <webElementGuid>bf0e1cf1-d4b4-4ee2-b3fe-b2c1b5a9d188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hosted Pages']/parent::*</value>
+      <webElementGuid>aa9d33b3-4b98-43b3-8f85-beda94852e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/a/div/span</value>
+      <webElementGuid>ab569c55-6fc0-45b8-89ca-c69ac31cae0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hosted Pages' or . = 'Hosted Pages')]</value>
+      <webElementGuid>8967c88e-fa93-4379-a9ec-62d8bdd800b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

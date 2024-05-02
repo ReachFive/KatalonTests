@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The test case verifies that we can perfom a profil search in its:
+- email address
+- name + last name
+- phone number
+- id</description>
+   <name>01.01.02 - ProfileSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9266eee-511f-4f80-92e3-a835136bde32</testCaseGuid>
+</TestCaseEntity>

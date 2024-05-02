@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hosted Pages</name>
+   <tag></tag>
+   <elementGuidId>5bea39d7-1774-40ee-94af-9067fde1a8ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(4) > a.ZEeIZ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/nav/div/div/span[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hosted Pages&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7123547d-fd40-419d-85e9-a7eb1613fb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ZEeIZ</value>
+      <webElementGuid>f14ad221-57b9-4874-863c-029ddd1ed3bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/QA-nme-katalon-testing/admin/hosted-pages</value>
+      <webElementGuid>2a27b375-35db-4e19-bab0-e4c920e0216b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hosted Pages</value>
+      <webElementGuid>204c033f-adc3-4589-b74e-d6e15f05ab03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/nav[@class=&quot;xhik7&quot;]/div[@class=&quot;NI0dP&quot;]/div[1]/span[4]/a[@class=&quot;ZEeIZ&quot;]</value>
+      <webElementGuid>eeb32caa-5197-469b-833d-c5b2e759eaee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/nav/div/div/span[4]/a</value>
+      <webElementGuid>649fd876-91c4-4ab4-a197-2c6f7fb9d3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom scopes'])[1]/following::a[1]</value>
+      <webElementGuid>4b272886-9cf2-464b-bf99-27ec92186c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::a[2]</value>
+      <webElementGuid>0d940ab3-b06d-4bc7-88be-8d135baad9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[1]/preceding::a[1]</value>
+      <webElementGuid>85c32c2e-5f1c-4976-958a-7ccfcc620fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/QA-nme-katalon-testing/admin/hosted-pages')]</value>
+      <webElementGuid>bbddfcd9-b3e3-4289-8c33-6050e4a50240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/a</value>
+      <webElementGuid>7bc24aa9-1dae-4f11-825f-2c4276db1733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/QA-nme-katalon-testing/admin/hosted-pages' and (text() = 'Hosted Pages' or . = 'Hosted Pages')]</value>
+      <webElementGuid>efcd91bd-331a-4e1a-9f9b-16f4e6af94d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

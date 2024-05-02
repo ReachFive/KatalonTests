@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hosted Pages</name>
+   <tag></tag>
+   <elementGuidId>98940f9a-3e16-4688-8983-27088f5488ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(4) > a.ZEeIZ > div.IKMED > span.m71by</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/nav/div/div/span[4]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hosted Pages&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d9d609ba-ec6b-45e9-89c0-5ed7674ecf06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m71by</value>
+      <webElementGuid>32f5b01f-b3a8-4f5d-ac75-7b32c4583fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hosted Pages</value>
+      <webElementGuid>2901397a-8577-463a-a483-a8ed49b34a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/nav[@class=&quot;xhik7&quot;]/div[@class=&quot;NI0dP&quot;]/div[1]/span[4]/a[@class=&quot;ZEeIZ&quot;]/div[@class=&quot;IKMED&quot;]/span[@class=&quot;m71by&quot;]</value>
+      <webElementGuid>63fbbe86-f071-4b3f-9d71-e3c1ddd3fa99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/nav/div/div/span[4]/a/div/span</value>
+      <webElementGuid>68db1f9d-a97a-4d7b-ad5c-d5251e207edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom scopes'])[1]/following::span[2]</value>
+      <webElementGuid>45653b6c-3278-46a1-85b8-bb5ed6ff8f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::span[4]</value>
+      <webElementGuid>0a155e59-2a53-477e-b5ba-b14f3642a82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[1]/preceding::span[1]</value>
+      <webElementGuid>ac5b1c2f-47f7-4e83-a677-0df28a568108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Providers'])[1]/preceding::span[3]</value>
+      <webElementGuid>94d421a7-db00-4860-842c-9e1a43c8ef49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hosted Pages']/parent::*</value>
+      <webElementGuid>8e621672-e905-487e-921f-7e12f00cdd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/a/div/span</value>
+      <webElementGuid>412546ac-1a20-4ad6-8443-47899b43686d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hosted Pages' or . = 'Hosted Pages')]</value>
+      <webElementGuid>d58181fc-786f-47ac-81d8-8be475145531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

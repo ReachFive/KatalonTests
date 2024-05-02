@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Go to account_css-8yile7-indicatorContainer</name>
+   <tag></tag>
+   <elementGuidId>4e7f1e54-0647-407f-a859-50fb7522fc8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-8yile7-indicatorContainer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/header/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.css-8yile7-indicatorContainer</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4e722a2-a64e-449b-a375-820d29b82f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-8yile7-indicatorContainer</value>
+      <webElementGuid>81b452bf-198d-4deb-b7d7-dfa1d96015ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fd900d49-9ebf-43e0-8611-cf1cdf015068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/header[@class=&quot;UOkzl&quot;]/div[@class=&quot;maUyO&quot;]/div[@class=&quot;D6HWT&quot;]/div[@class=&quot;css-1jdmikc-container&quot;]/div[@class=&quot;css-zi0vkq-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-8yile7-indicatorContainer&quot;]</value>
+      <webElementGuid>d1f95371-e380-4134-8925-4018d1c70b7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/header/div/div/div/div/div[2]/div</value>
+      <webElementGuid>60d36cd7-eca1-4838-84d8-9bb8240299ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to account'])[1]/following::div[3]</value>
+      <webElementGuid>7d1f82c4-5e55-4172-bda7-1538f9d66ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-account-azure, 1 of 31.'])[1]/following::div[6]</value>
+      <webElementGuid>b381b8a7-6163-4fe8-93df-b8e772a053fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-account-azure'])[1]/preceding::div[1]</value>
+      <webElementGuid>22c04fd8-25af-409a-8994-d0ba313761a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sdk Mobile Sandbox'])[1]/preceding::div[2]</value>
+      <webElementGuid>c7f965b3-be94-4311-962f-be93d10a6aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div</value>
+      <webElementGuid>8a3f14e0-5441-45dd-ae1d-d251ddbb3c17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

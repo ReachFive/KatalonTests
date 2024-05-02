@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The test case verifies that we can login using custum identifier on the HP login page</description>
+   <name>02.02 - HP Login_via_custom_identifier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0194b8f-922f-4805-83ec-f8b0ec318d0c</testCaseGuid>
+</TestCaseEntity>

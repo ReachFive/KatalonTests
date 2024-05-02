@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Integ</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://console-integ.reach5.co/'</initValue>
+      <name>ConsoleURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'nawel.mele@reach5.co'</initValue>
+      <name>Login_NME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'custom identifier login'</initValue>
+      <name>Custom_identifier_user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'crm_user_katalontesting@gmail.com'</initValue>
+      <name>LoginCRMUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'readonly_user_katalontesting@gmail.com\t'</initValue>
+      <name>LonginReadOnlyUser</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

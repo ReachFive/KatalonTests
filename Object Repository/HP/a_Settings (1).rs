@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Settings (1)</name>
+   <tag></tag>
+   <elementGuidId>dcbcefea-6525-46c0-858c-aaa24fc62291</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.navbar-nav > li.ng-scope > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/div[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2c6bb24d-f86d-449f-84c4-3902e2b447e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/QA-nme-katalon-testing/admin/settings</value>
+      <webElementGuid>e41d06b4-d3de-40f8-ab65-ae572e2e3cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Settings </value>
+      <webElementGuid>b383dd08-0f25-4f00-b6f4-2de6b53bd6a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;app-header navbar ng-scope&quot;]/div[@class=&quot;collapse pos-rlt navbar-collapse box-shadow bg-success ng-scope&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;ng-scope&quot;]/a[1]</value>
+      <webElementGuid>37d1b118-1edd-438f-ad1f-66a2b846b683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/div[2]/ul/li[2]/a</value>
+      <webElementGuid>f878010c-d7c9-415a-a7d3-018b7a0f0341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Settings')]</value>
+      <webElementGuid>1e68e210-f673-4574-8a3b-c8a88cac1dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reach5 Load Tests'])[1]/following::a[1]</value>
+      <webElementGuid>a14cbf99-26e8-4d93-b874-5bce5c3416e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='documentation-official'])[1]/following::a[2]</value>
+      <webElementGuid>da3a2ef5-4499-403a-93eb-649ac532dff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Root'])[1]/preceding::a[1]</value>
+      <webElementGuid>fb8ff3f7-a2ca-4580-98e9-48fa2b2eb7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nawel Mele'])[1]/preceding::a[2]</value>
+      <webElementGuid>e114e643-207b-4251-bde3-b9117e3f99bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Settings']/parent::*</value>
+      <webElementGuid>c56bd5a2-55ee-4da5-b3cf-8ed3be5d0ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/QA-nme-katalon-testing/admin/settings')]</value>
+      <webElementGuid>bdef7d68-1d31-4596-a944-c23b9b2eb0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>0778136e-ca81-4e10-ad06-9ff666f17dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/QA-nme-katalon-testing/admin/settings' and (text() = ' Settings ' or . = ' Settings ')]</value>
+      <webElementGuid>c407a72e-14f4-43e7-81f2-bfdd5ece6919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

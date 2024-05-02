@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The test case verifies that we can acces the HP login page without any errors</description>
+   <name>02.01 - HP LoginSignUpPagesNoError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3875e685-8b12-46ad-a4d8-5d8824fa28e0</testCaseGuid>
+</TestCaseEntity>

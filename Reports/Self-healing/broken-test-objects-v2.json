@@ -1,0 +1,154 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/span_Next",
+      "brokenLocator": "//div[@id\u003d\u0027passwordNext\u0027]/div/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027privacy policy\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/span_Next_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/span_Try another way",
+      "brokenLocator": "//div[@id\u003d\u0027yDmH0d\u0027]/c-wiz/div/div[3]/div[2]/div[2]/div/div/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Resend it\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/span_Try another way_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/span_Next",
+      "brokenLocator": "//div[@id\u003d\u0027passwordNext\u0027]/div/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027English (United Kingdom)\u0027])[1]/preceding::span[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/span_Try another way",
+      "brokenLocator": "//div[@id\u003d\u0027yDmH0d\u0027]/c-wiz/div/div[2]/div/div[2]/div[2]/div[2]/div/div/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027English (United States)\u0027])[1]/preceding::span[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/div_Get a verification code from the Google_4b87d8",
+      "brokenLocator": "//div[@id\u003d\u0027yDmH0d\u0027]/c-wiz/div/div[2]/div/div/div/form/span/section[2]/div/div/section/div/div/div/ul/li[2]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Yes\u0027])[1]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/div_Get a verification code from the Google_4b87d8_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/input_Email address or phone number_identifier",
+      "brokenLocator": "//input[@id\u003d\u0027cDtFEU\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027login-container\u0027]/div/div/form/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/input_Email address or phone number_identifier_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/input_Password_password",
+      "brokenLocator": "//input[@id\u003d\u0027SFCwzx\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027login-container\u0027]/div/div/form/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/input_Password_password_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/input_Email address or phone number_identifier",
+      "brokenLocator": "//input[@id\u003d\u0027OmHyJu\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027login-container\u0027]/div/div/form/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/input_Email address or phone number_identifier_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/input_Password_password",
+      "brokenLocator": "//input[@id\u003d\u0027tkaNEW\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027login-container\u0027]/div/div/form/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/input_Password_password_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ProfilePageSearch/input_Filter_Nr7Ji CVfQQ",
+      "brokenLocator": "(//input[@value\u003d\u0027\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027base-layer\u0027]/main/div[2]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ProfilePageSearch/input_Filter_Nr7Ji CVfQQ_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/draft/login_email",
+      "brokenLocator": "//div[@name \u003d \u0027identifier\u0027]//input[@placeholder\u003d‘Email address or phone number’]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027login-container\u0027]/div/div/form/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/draft/login_email_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Login - ReachFive/input_Email address or phone number_identifier",
+      "brokenLocator": "//input[@id\u003d\u0027UPojoS\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027login-container\u0027]/div/div/form/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Login - ReachFive/input_Email address or phone number_identifier_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/draft/login_password",
+      "brokenLocator": "//div[@name \u003d \u0027password\u0027]//input[@placeholder\u003d‘Password’]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027login-container\u0027]/div/div/form/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/draft/login_password_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ProfilePageSearch/SearchProfilFilter",
+      "brokenLocator": "(//input[@value\u003d\u0027\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027base-layer\u0027]/main/div[2]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ProfilePageSearch/SearchProfilFilter_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HP/Page_Console - ReachFive/div_integ-qa-nme",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-2-option-30\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027IP Blacklist\u0027])[1]/following::div[11]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HP/Page_Console - ReachFive/div_integ-qa-nme_neighbor.png"
+    }
+  ]
+}

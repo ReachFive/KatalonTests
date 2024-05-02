@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nawel Mele</name>
+   <tag></tag>
+   <elementGuidId>0cc557ac-4f52-400e-9b72-732adb84b704</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/main/div[2]/div[2]/table/tbody/tr/td[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Nawel Mele&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>52074b66-5a5b-4d36-811a-e363fb19b599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/integ-qa-fonctionnelle/profile/AYtnPvQ2GeK3_S8eMl7O</value>
+      <webElementGuid>78ca6161-7330-41cd-82a0-38326783a2a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nawel Mele</value>
+      <webElementGuid>fb55d299-0b9b-4a0f-90e1-ffd446097585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/main[@class=&quot;d3KUA&quot;]/div[@class=&quot;cHndV&quot;]/div[2]/table[@class=&quot;JxWTa&quot;]/tbody[1]/tr[@class=&quot;xagVG&quot;]/td[@class=&quot;qIBX3 vpuDG&quot;]/a[1]</value>
+      <webElementGuid>739a6658-5e8a-4dea-b682-c33fcdcca6b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/main/div[2]/div[2]/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>03ff878c-2cdd-4415-a924-dc5399debbef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nawel Mele')]</value>
+      <webElementGuid>f894e6d2-c8da-49f3-b3ce-1f0f3e6ebbda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nawel.mele@reach5.co'])[1]/following::a[1]</value>
+      <webElementGuid>64451662-babf-443c-ae81-8a9edb732f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::a[2]</value>
+      <webElementGuid>9d185d45-62e6-4266-a2a3-2cd8cce717c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/integ-qa-fonctionnelle/profile/AYtnPvQ2GeK3_S8eMl7O')])[2]</value>
+      <webElementGuid>f34c40ec-1c32-47e8-aeed-fea92a4cf4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>dfb50a00-9cbe-492c-892a-26029470a8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/integ-qa-fonctionnelle/profile/AYtnPvQ2GeK3_S8eMl7O' and (text() = 'Nawel Mele' or . = 'Nawel Mele')]</value>
+      <webElementGuid>53596f54-1b41-40c0-bf74-4325a3c06097</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
