@@ -38,21 +38,29 @@ WebUI.click(findTestObject('Object Repository/ProfilePage/span_Profiles'))
 
 WebUI.click(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'))
 
-WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), 'nawel mele')
+WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), 'KatlonSPGivenName  KatlonSPFamilyName')
 
-WebUI.verifyTextPresent('Nawel Mele', false)
+WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), 'nawel.mele@reach5.co')
+WebUI.verifyTextPresent('KatlonSPGivenName KatlonSPFamilyName', false)
 
-WebUI.verifyTextPresent('nawel.mele@reach5.co', false)
+WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), 'katalon_search_profile@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), '+33645554389')
+WebUI.delay(5)
 
-WebUI.verifyTextPresent('nawel.mele@reach5.co', false)
+WebUI.verifyTextPresent('katalon_search_profile@gmail.com', false)
 
-WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), 'AYtnPvQ2GeK3_S8eMl7O')
+WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), '+33634443795')
 
-WebUI.verifyTextPresent('nawel.mele@reach5.co', false)
+WebUI.delay(5)
+
+WebUI.verifyTextPresent('katalon_search_profile@gmail.com', false)
+
+WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), 'AY890ARS9-7P9OiCqsiL')
+
+WebUI.delay(5)
+
+WebUI.verifyTextPresent('katalon_search_profile+2@gmail.com', false)
 
 WebUI.closeBrowser()
 
