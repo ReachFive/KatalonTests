@@ -23,7 +23,6 @@ import org.openqa.selenium.WebElement as WebElement
 /**
  Comment for Git
  **/
-
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.ConsoleURL)
@@ -65,6 +64,8 @@ WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFi
 WebUI.delay(5)
 
 WebUI.verifyTextPresent('katalon_search_profile+2@gmail.com', false)
+
+WebUI.delay(1)
 
 WebUI.closeBrowser()
 
