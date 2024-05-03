@@ -20,6 +20,10 @@ import com.kms.katalon.core.testobject.ConditionType as ConditionType
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import org.openqa.selenium.WebElement as WebElement
 
+/**
+ Comment for Git
+ **/
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.ConsoleURL)

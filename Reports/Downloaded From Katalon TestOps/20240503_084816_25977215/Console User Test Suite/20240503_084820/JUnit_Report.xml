@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Console User Test Suite" time="94.308" tests="3" failures="0" errors="0">
+   <testsuite name="Console User Test Suite" tests="3" failures="0" errors="0" time="94.308" skipped="0" timestamp="03-05-2024T08:48:32" hostname="runneradmin - fv-az1564-217.cfzvq1px0pqepkq2nnbs4xvn2e.phxx.internal.cloudapp.net" id="Test Suites/Console User Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\a\\KatalonTests\\KatalonTests\\Reports\\20240503_084816\\Console User Test Suite\\20240503_084820"/>
+         <property name="logFiles" value="D:\\a\\KatalonTests\\KatalonTests\\Reports\\20240503_084816\\Console User Test Suite\\20240503_084820\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="runneradmin - fv-az1564-217.cfzvq1px0pqepkq2nnbs4xvn2e.phxx.internal.cloudapp.net"/>
+         <property name="os" value="Windows Server 2022 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="10.1.0.163"/>
+         <property name="sessionId" value="7ab822e0045561e126bff257a8c8458b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows Server 2022"/>
+      </properties>
+      <testcase name="Test Cases/01 - Test Console/01.02 - Console User/01.02.01 - Authentification/01.02.01.01 - PasswordLogin" time="51.49" classname="Test Cases/01 - Test Console/01.02 - Console User/01.02.01 - Authentification/01.02.01.01 - PasswordLogin" status="PASSED">
+         <system-out><![CDATA[03-05-2024T08:48:32 - [TEST_CASE][PASSED] - Test Cases/01 - Test Console/01.02 - Console User/01.02.01 - Authentification/01.02.01.01 - PasswordLogin: Test Cases/01 - Test Console/01.02 - Console User/01.02.01 - Authentification/01.02.01.01 - PasswordLogin
+
+03-05-2024T08:48:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-05-2024T08:48:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-05-2024T08:48:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-05-2024T08:49:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-05-2024T08:49:06 - [TEST_STEP][PASSED] - navigateToUrl(ConsoleURL): Navigate to 'https://console-integ.reach5.co/' successfully
+
+03-05-2024T08:49:11 - [MESSAGE][PASSED] - Navigate to 'https://console-integ.reach5.co/' successfully
+
+03-05-2024T08:49:11 - [TEST_STEP][PASSED] - setText(findTestObject("R5_console_Login/login_email"), Login_NME): Text 'nawel.mele@reach5.co' is set on object 'Object Repository/R5_console_Login/login_email'
+
+03-05-2024T08:49:13 - [MESSAGE][PASSED] - Text 'nawel.mele@reach5.co' is set on object 'Object Repository/R5_console_Login/login_email'
+
+03-05-2024T08:49:13 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("R5_console_Login/login_password"), "5rdcrhgBYgE/1Hb7+0nwZQ=="): Text ****** has been set on object 'Object Repository/R5_console_Login/login_password'
+
+03-05-2024T08:49:14 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/R5_console_Login/login_password'
+
+03-05-2024T08:49:14 - [TEST_STEP][PASSED] - click(findTestObject("R5_console_Login/button_Log in")): Object: 'Object Repository/R5_console_Login/button_Log in' is clicked on
+
+03-05-2024T08:49:14 - [MESSAGE][PASSED] - Object: 'Object Repository/R5_console_Login/button_Log in' is clicked on
+
+03-05-2024T08:49:14 - [TEST_STEP][PASSED] - message = getText(findTestObject("R5_console_Login/Title_Accounts_RootPage")): Text of object 'Object Repository/R5_console_Login/Title_Accounts_RootPage' is: 'Accounts (27)'
+
+03-05-2024T08:49:23 - [MESSAGE][PASSED] - Text of object 'Object Repository/R5_console_Login/Title_Accounts_RootPage' is: 'Accounts (27)'
+
+03-05-2024T08:49:23 - [TEST_STEP][PASSED] - if (message.contains("Accounts")): Element is present
+
+03-05-2024T08:49:23 - [TEST_STEP][PASSED] - markPassed("Element is present"): Element is present
+
+03-05-2024T08:49:23 - [MESSAGE][PASSED] - Element is present
+
+03-05-2024T08:49:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-05-2024T08:49:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.01 - CRM user profiles access" time="21.955" classname="Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.01 - CRM user profiles access" status="PASSED">
+         <system-out><![CDATA[03-05-2024T08:49:23 - [TEST_CASE][PASSED] - Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.01 - CRM user profiles access: Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.01 - CRM user profiles access
+
+03-05-2024T08:49:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-05-2024T08:49:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-05-2024T08:49:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-05-2024T08:49:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-05-2024T08:49:24 - [TEST_STEP][PASSED] - navigateToUrl(ConsoleURL): Navigate to 'https://console-integ.reach5.co/' successfully
+
+03-05-2024T08:49:29 - [MESSAGE][PASSED] - Navigate to 'https://console-integ.reach5.co/' successfully
+
+03-05-2024T08:49:29 - [TEST_STEP][PASSED] - setText(findTestObject("R5_console_Login/login_email"), LoginCRMUser): Text 'crm_user_katalontesting@gmail.com' is set on object 'Object Repository/R5_console_Login/login_email'
+
+03-05-2024T08:49:31 - [MESSAGE][PASSED] - Text 'crm_user_katalontesting@gmail.com' is set on object 'Object Repository/R5_console_Login/login_email'
+
+03-05-2024T08:49:31 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("R5_console_Login/login_password"), "5rdcrhgBYgE/1Hb7+0nwZQ=="): Text ****** has been set on object 'Object Repository/R5_console_Login/login_password'
+
+03-05-2024T08:49:31 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/R5_console_Login/login_password'
+
+03-05-2024T08:49:31 - [TEST_STEP][PASSED] - click(findTestObject("R5_console_Login/button_Log in")): Object: 'Object Repository/R5_console_Login/button_Log in' is clicked on
+
+03-05-2024T08:49:31 - [MESSAGE][PASSED] - Object: 'Object Repository/R5_console_Login/button_Log in' is clicked on
+
+03-05-2024T08:49:31 - [TEST_STEP][PASSED] - click(findTestObject("ProfilePageSearch/a_Profiles")): Object: 'Object Repository/ProfilePageSearch/a_Profiles' is clicked on
+
+03-05-2024T08:49:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ProfilePageSearch/a_Profiles' is clicked on
+
+03-05-2024T08:49:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/bin/Page_Console - ReachFive/input_Filter_Nr7Ji CVfQQ")): Object: 'Object Repository/bin/Page_Console - ReachFive/input_Filter_Nr7Ji CVfQQ' is clicked on
+
+03-05-2024T08:49:41 - [MESSAGE][PASSED] - Object: 'Object Repository/bin/Page_Console - ReachFive/input_Filter_Nr7Ji CVfQQ' is clicked on
+
+03-05-2024T08:49:41 - [TEST_STEP][PASSED] - setText(findTestObject("ProfilePageSearch/SearchProfilFilter"), "User_Role_tests@gmail.com"): Text 'User_Role_tests@gmail.com' is set on object 'Object Repository/ProfilePageSearch/SearchProfilFilter'
+
+03-05-2024T08:49:41 - [MESSAGE][PASSED] - Text 'User_Role_tests@gmail.com' is set on object 'Object Repository/ProfilePageSearch/SearchProfilFilter'
+
+03-05-2024T08:49:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProfilePage/UserProfilImage")): Object: 'Object Repository/ProfilePage/UserProfilImage' is clicked on
+
+03-05-2024T08:49:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ProfilePage/UserProfilImage' is clicked on
+
+03-05-2024T08:49:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProfilePage/ActionButtonProfilEdition")): Object: 'Object Repository/ProfilePage/ActionButtonProfilEdition' is clicked on
+
+03-05-2024T08:49:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ProfilePage/ActionButtonProfilEdition' is clicked on
+
+03-05-2024T08:49:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProfilePage/button_Edit")): Object: 'Object Repository/ProfilePage/button_Edit' is clicked on
+
+03-05-2024T08:49:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ProfilePage/button_Edit' is clicked on
+
+03-05-2024T08:49:45 - [TEST_STEP][PASSED] - ProfileEditionTitle = getText(findTestObject("Object Repository/ProfilePage/UseProfileEditionTitle")): Text of object 'Object Repository/ProfilePage/UseProfileEditionTitle' is: 'Edition of profile KatalonGivenName KatalonFamilyName'
+
+03-05-2024T08:49:45 - [MESSAGE][PASSED] - Text of object 'Object Repository/ProfilePage/UseProfileEditionTitle' is: 'Edition of profile KatalonGivenName KatalonFamilyName'
+
+03-05-2024T08:49:45 - [TEST_STEP][PASSED] - if (ProfileEditionTitle.contains("Edition of profile")): Element is present
+
+03-05-2024T08:49:45 - [TEST_STEP][PASSED] - markPassed("Element is present"): Element is present
+
+03-05-2024T08:49:45 - [MESSAGE][PASSED] - Element is present
+
+03-05-2024T08:49:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-05-2024T08:49:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.02 - Read Only user profiles access" time="20.665" classname="Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.02 - Read Only user profiles access" status="PASSED">
+         <system-out><![CDATA[03-05-2024T08:49:45 - [TEST_CASE][PASSED] - Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.02 - Read Only user profiles access: Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.02 - Read Only user profiles access
+
+03-05-2024T08:49:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-05-2024T08:49:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-05-2024T08:49:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-05-2024T08:49:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-05-2024T08:49:46 - [TEST_STEP][PASSED] - navigateToUrl(ConsoleURL): Navigate to 'https://console-integ.reach5.co/' successfully
+
+03-05-2024T08:49:50 - [MESSAGE][PASSED] - Navigate to 'https://console-integ.reach5.co/' successfully
+
+03-05-2024T08:49:50 - [TEST_STEP][PASSED] - setText(findTestObject("R5_console_Login/login_email"), LonginReadOnlyUser): Text 'readonly_user_katalontesting@gmail.com	' is set on object 'Object Repository/R5_console_Login/login_email'
+
+03-05-2024T08:49:52 - [MESSAGE][PASSED] - Text 'readonly_user_katalontesting@gmail.com	' is set on object 'Object Repository/R5_console_Login/login_email'
+
+03-05-2024T08:49:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("R5_console_Login/login_password"), "5rdcrhgBYgE/1Hb7+0nwZQ=="): Text ****** has been set on object 'Object Repository/R5_console_Login/login_password'
+
+03-05-2024T08:49:52 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/R5_console_Login/login_password'
+
+03-05-2024T08:49:52 - [TEST_STEP][PASSED] - click(findTestObject("R5_console_Login/button_Log in")): Object: 'Object Repository/R5_console_Login/button_Log in' is clicked on
+
+03-05-2024T08:49:53 - [MESSAGE][PASSED] - Object: 'Object Repository/R5_console_Login/button_Log in' is clicked on
+
+03-05-2024T08:49:53 - [TEST_STEP][PASSED] - click(findTestObject("ProfilePageSearch/a_Profiles")): Object: 'Object Repository/ProfilePageSearch/a_Profiles' is clicked on
+
+03-05-2024T08:50:01 - [MESSAGE][PASSED] - Object: 'Object Repository/ProfilePageSearch/a_Profiles' is clicked on
+
+03-05-2024T08:50:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/bin/Page_Console - ReachFive/input_Filter_Nr7Ji CVfQQ")): Object: 'Object Repository/bin/Page_Console - ReachFive/input_Filter_Nr7Ji CVfQQ' is clicked on
+
+03-05-2024T08:50:02 - [MESSAGE][PASSED] - Object: 'Object Repository/bin/Page_Console - ReachFive/input_Filter_Nr7Ji CVfQQ' is clicked on
+
+03-05-2024T08:50:02 - [TEST_STEP][PASSED] - setText(findTestObject("ProfilePageSearch/SearchProfilFilter"), "User_Role_tests@gmail.com"): Text 'User_Role_tests@gmail.com' is set on object 'Object Repository/ProfilePageSearch/SearchProfilFilter'
+
+03-05-2024T08:50:02 - [MESSAGE][PASSED] - Text 'User_Role_tests@gmail.com' is set on object 'Object Repository/ProfilePageSearch/SearchProfilFilter'
+
+03-05-2024T08:50:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProfilePage/UserProfilImage")): Object: 'Object Repository/ProfilePage/UserProfilImage' is clicked on
+
+03-05-2024T08:50:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ProfilePage/UserProfilImage' is clicked on
+
+03-05-2024T08:50:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProfilePage/ActionButtonProfilEdition")): Object: 'Object Repository/ProfilePage/ActionButtonProfilEdition' is clicked on
+
+03-05-2024T08:50:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ProfilePage/ActionButtonProfilEdition' is clicked on
+
+03-05-2024T08:50:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ProfilePage/button_Edit")): Object: 'Object Repository/ProfilePage/button_Edit' is clicked on
+
+03-05-2024T08:50:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ProfilePage/button_Edit' is clicked on
+
+03-05-2024T08:50:05 - [TEST_STEP][PASSED] - ProfileEditionTitle = getText(findTestObject("Object Repository/ProfilePage/UseProfileEditionTitle")): Text of object 'Object Repository/ProfilePage/UseProfileEditionTitle' is: 'Edition of profile KatalonGivenName KatalonFamilyName'
+
+03-05-2024T08:50:06 - [MESSAGE][PASSED] - Text of object 'Object Repository/ProfilePage/UseProfileEditionTitle' is: 'Edition of profile KatalonGivenName KatalonFamilyName'
+
+03-05-2024T08:50:06 - [TEST_STEP][PASSED] - if (ProfileEditionTitle.contains("Edition of profile")): Element is present
+
+03-05-2024T08:50:06 - [TEST_STEP][PASSED] - markPassed("Element is present"): Element is present
+
+03-05-2024T08:50:06 - [MESSAGE][PASSED] - Element is present
+
+03-05-2024T08:50:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-05-2024T08:50:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-05-2024T08:48:32 - [TEST_SUITE][PASSED] - Console User Test Suite: Test Cases/01 - Test Console/01.02 - Console User/01.02.02 - Console Role/01.02.02.02 - Read Only user profiles access]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
