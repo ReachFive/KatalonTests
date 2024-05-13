@@ -6,15 +6,19 @@
    <elementGuidId>ea3bbc8e-cfaf-44c5-a127-bdff86d3d905</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-2-option-29</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'integ-qa-nme' or . = 'integ-qa-nme')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='react-select-2-option-29']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-2-option-29</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>37ef5ab4-64f9-46b1-ade6-14a745c51436</webElementGuid>
+      <webElementGuid>d6267a88-f12f-4a84-ab3b-56ce17a14a76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value> css-e6nxn7-option</value>
-      <webElementGuid>69dc1aef-ebfc-40e6-8ad0-88ffef7e9aa2</webElementGuid>
+      <webElementGuid>d9bc4a02-f4d9-4d7c-ba8b-bc3cdb351d6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +49,15 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3269ad21-d77c-431c-9811-373bf0c83c83</webElementGuid>
+      <webElementGuid>1fc457f4-9b12-4e27-b876-2c1f3871f15e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>react-select-2-option-29</value>
-      <webElementGuid>bdbe296c-221b-4218-af21-cd731982ad89</webElementGuid>
+      <webElementGuid>566889a7-e4ee-4cfc-8995-041bba1385a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>2d9a8459-d25e-4460-8f35-fee7583ff117</webElementGuid>
+      <webElementGuid>89d58319-21b6-472a-b6f2-c98bdf175297</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>a1b18ce6-748f-4a9c-8b06-da03af9f8edb</webElementGuid>
+      <webElementGuid>8dacb976-c02a-40a3-ae6a-01cb875df918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +81,7 @@
       <name>text</name>
       <type>Main</type>
       <value>integ-qa-nme</value>
-      <webElementGuid>83554362-dc3a-4652-a885-ce4e70e78748</webElementGuid>
+      <webElementGuid>2251706f-36d6-4dbd-ad5e-5ccfa220dac3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-2-option-29&quot;)</value>
-      <webElementGuid>75736175-7856-435d-9dc5-141cbfaf1a14</webElementGuid>
+      <webElementGuid>418da53d-dde8-4db4-8003-97703a5e95fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-2-option-29']</value>
-      <webElementGuid>26adb3d0-5878-4669-bea8-edcf22715008</webElementGuid>
+      <webElementGuid>986710c2-d8b8-4ab4-b94a-2f25a9b57c08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='react-select-2-listbox']/div[30]</value>
-      <webElementGuid>923a300c-921c-4a2f-bbf0-02907018d3ea</webElementGuid>
+      <webElementGuid>f666f903-32ec-4fce-b471-ec40398dd247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reach5 Load Tests'])[1]/following::div[1]</value>
-      <webElementGuid>82014974-6275-47e8-9094-9279051cfa49</webElementGuid>
+      <webElementGuid>465db421-d768-4ded-88b3-f996641aa236</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='documentation-official'])[1]/following::div[2]</value>
-      <webElementGuid>8c6fe63b-5cb2-4b6c-af02-8bc4fddd50d2</webElementGuid>
+      <webElementGuid>88de7cf7-21ab-4cf2-b612-2adbd9e3d230</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +129,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nawel Mele'])[1]/preceding::div[1]</value>
-      <webElementGuid>c62f6493-bfea-467e-b3e8-f58a89f746a5</webElementGuid>
+      <webElementGuid>eaa894b6-a14e-4e45-b925-41f9b65c5d17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +137,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts (30)'])[1]/preceding::div[4]</value>
-      <webElementGuid>e65249fb-d51c-455c-bbc3-3b19dbf0ec28</webElementGuid>
+      <webElementGuid>27715e88-8fbb-4fbb-acc5-163c93588bde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +145,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='integ-qa-nme']/parent::*</value>
-      <webElementGuid>fc3509ec-ebb0-45e8-9a1f-68e9300c334e</webElementGuid>
+      <webElementGuid>ed413a7e-3ee9-4f05-92d8-e09521633173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +153,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[30]</value>
-      <webElementGuid>24b4a311-db47-46c7-bdb4-d055cf1b0acb</webElementGuid>
+      <webElementGuid>c4640b55-48a8-4569-bace-efad71529df2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +161,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-2-option-29' and (text() = 'integ-qa-nme' or . = 'integ-qa-nme')]</value>
-      <webElementGuid>3d33a876-7617-4614-a8aa-4e509cc8795b</webElementGuid>
+      <webElementGuid>23838f11-22ec-41d9-8479-7ff072411de6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

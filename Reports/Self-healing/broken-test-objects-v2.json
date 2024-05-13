@@ -149,6 +149,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/HP/Page_Console - ReachFive/div_integ-qa-nme_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HP/div_integ-qa-nme",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-2-option-29\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Reach5 Load Tests\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HP/div_integ-qa-nme_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HP/Page_Console - ReachFive/a_Settings",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/section/div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Reach5 Load Tests\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HP/Page_Console - ReachFive/a_Settings_neighbor.png"
     }
   ]
 }
