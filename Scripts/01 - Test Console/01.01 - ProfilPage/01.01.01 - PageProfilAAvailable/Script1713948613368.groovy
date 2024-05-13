@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.ConsoleURL)
 
-WebUI.setEncryptedText(findTestObject('R5_console_Login/login_email'), GlobalVariable.Login_NME)
+WebUI.setText(findTestObject('R5_console_Login/login_email'), GlobalVariable.Login_NME)
 
-WebUI.click(findTestObject('R5_console_Login/login_password'))
+WebUI.setEncryptedText(findTestObject('R5_console_Login/login_password'), '5rdcrhgBYgE/1Hb7+0nwZQ==')
+
+WebUI.click(findTestObject('R5_console_Login/button_Log in'))
 
 WebUI.click(findTestObject('Object Repository/ProfilePage/div_Go to account_css-8yile7-indicatorContainer'))
-
-WebUI.setText(findTestObject('R5_console_Login/login_email'), GlobalVariable.Login_NME)
 
 WebUI.click(findTestObject('Object Repository/HP/div_Integ-QA-fonctionnelle'))
 
