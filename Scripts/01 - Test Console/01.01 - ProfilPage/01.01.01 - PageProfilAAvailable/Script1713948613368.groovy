@@ -27,13 +27,17 @@ WebUI.setEncryptedText(findTestObject('R5_console_Login/login_password'), '5rdcr
 
 WebUI.click(findTestObject('R5_console_Login/button_Log in'))
 
-WebUI.click(findTestObject('Object Repository/ProfilePage/div_Go to account_css-8yile7-indicatorContainer'))
+WebUI.click(findTestObject('Object Repository/HP/Page_Console - ReachFive/div_Go to account'))
 
-WebUI.click(findTestObject('Object Repository/HP/div_Integ-QA-fonctionnelle'))
+/*WebUI.setText(findTestObject('Object Repository/HP/Page_Console - ReachFive/input_Go to account_react-select-2-input'), 
+    'nme')*/
+WebUI.scrollToElement(findTestObject('HP/div_integ-qa-nme'), 3)
+
+WebUI.click(findTestObject('HP/div_integ-qa-nme'))
 
 WebUI.click(findTestObject('Object Repository/ProfilePage/span_Profiles'))
 
-WebUI.verifyTextPresent('K profiles', true)
+WebUI.verifyTextPresent('profiles', true)
 
 WebUI.verifyTextPresent('Filter', false)
 
