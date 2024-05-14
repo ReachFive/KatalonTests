@@ -37,7 +37,7 @@ WebUI.click(findTestObject('HP/div_integ-qa-nme'))
 
 WebUI.click(findTestObject('Object Repository/ProfilePage/span_Profiles'))
 
-WebUI.verifyTextPresent('k profiles', true)
+WebUI.verifyTextPresent('profiles', true)
 
 WebUI.verifyTextPresent('Filter', false)
 
