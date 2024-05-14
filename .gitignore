@@ -5,3 +5,6 @@
 /.classpath
 .svn/
 .DS_Store
+Reports/
+.cache/
+.DS_Store
