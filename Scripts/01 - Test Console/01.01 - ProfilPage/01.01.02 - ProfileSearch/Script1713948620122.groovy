@@ -33,9 +33,13 @@ WebUI.setEncryptedText(findTestObject('R5_console_Login/login_password'), '5rdcr
 
 WebUI.click(findTestObject('R5_console_Login/button_Log in'))
 
-WebUI.click(findTestObject('Object Repository/ProfilePage/div_Go to account_css-8yile7-indicatorContainer'))
+WebUI.click(findTestObject('Object Repository/HP/Page_Console - ReachFive/div_Go to account'))
 
-WebUI.click(findTestObject('Object Repository/HP/div_Integ-QA-fonctionnelle'))
+/*WebUI.setText(findTestObject('Object Repository/HP/Page_Console - ReachFive/input_Go to account_react-select-2-input'), 
+    'nme')*/
+WebUI.scrollToElement(findTestObject('HP/div_integ-qa-nme'), 3)
+
+WebUI.click(findTestObject('HP/div_integ-qa-nme'))
 
 WebUI.click(findTestObject('Object Repository/ProfilePage/span_Profiles'))
 
@@ -59,7 +63,7 @@ WebUI.delay(5)
 
 WebUI.verifyTextPresent('katalon_search_profile@gmail.com', false)
 
-WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), 'AY890ARS9-7P9OiCqsiL')
+WebUI.setText(findTestObject('Object Repository/ProfilePageSearch/SearchProfilFilter'), 'AY93l4giKOIS0VrJBqFH')
 
 WebUI.delay(5)
 
