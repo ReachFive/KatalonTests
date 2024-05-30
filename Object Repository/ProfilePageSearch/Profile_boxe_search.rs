@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Profile_boxe_search</name>
+   <tag></tag>
+   <elementGuidId>2a9af5ff-91cc-4ac9-9528-d3c1b3e7e551</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.Nr7Ji.CVfQQ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'Search by name, email, phone number, external ID, custom ID or ID']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search by name, email, phone number, external ID, custom ID or ID&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bc4b6f18-a2da-47e3-aa41-84bd055a6d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>996815ce-24e9-4dbd-8cdd-1dbee870d692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by name, email, phone number, external ID, custom ID or ID</value>
+      <webElementGuid>4487647e-3755-48c2-8c53-0ba42272cd7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Nr7Ji CVfQQ</value>
+      <webElementGuid>ee73b58f-3bbd-4a6f-9109-0f1c715415b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/main[@class=&quot;d3KUA&quot;]/div[@class=&quot;cHndV&quot;]/div[@class=&quot;wKnEZ&quot;]/div[@class=&quot;Wb55R&quot;]/input[@class=&quot;Nr7Ji CVfQQ&quot;]</value>
+      <webElementGuid>ed3591ba-aed0-4ea1-9428-40181ebdf4c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>774d0eb3-251b-415e-b87e-851ad586f1c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/main/div[2]/div/div/input</value>
+      <webElementGuid>d38794cb-bbca-42a9-a235-f0630a55b265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>04befe94-42ba-46c5-9a1f-142104524a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search by name, email, phone number, external ID, custom ID or ID']</value>
+      <webElementGuid>691aa292-941c-4edc-8d95-ed2f382877a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

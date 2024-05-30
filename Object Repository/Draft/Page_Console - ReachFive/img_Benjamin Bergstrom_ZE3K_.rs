@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Benjamin Bergstrom_ZE3K_</name>
+   <tag></tag>
+   <elementGuidId>c7f074e8-7685-4ca8-bd36-f78227396582</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/main/div[2]/div[2]/table/tbody/tr[9]/td/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Profile picture katalonusergenerale@gmail.com Benjamin Bergstrom 37&quot;i] >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1fad4f5f-abda-4648-8538-10b4b2b2fdc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ZE3K_</value>
+      <webElementGuid>cd739539-e9f7-4011-a6b7-2772abe502e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Profile picture</value>
+      <webElementGuid>a878e991-c76d-42db-94b9-50dd3fe77064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAMgAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+uKKT8akt4JLqeOGJTJLIwRFHUk8AUAR0V7N4b+F+m6bbI+oIt9eEZbef3an0A7/AFP6Vo6n8PdC1KAp9jS1fHyyW/yEfgOD+IoA8IorV8S+Hp/DOqyWc7bwBujkAwHU9DWV+NABx60UfjRQAYNdJ8OUjbxlpwl6AuRn+9sbH61zeDU1ldy2F3DcwNsmicOjehBoA+lMcUAVl+GtabX9KiuntZbR2HzJIpAJ9VPcVo3E32eCSUo7hAW2xqWY+wHc0Aea/GdI86U3/LX94Pfb8teZYNbvjPxBP4i1uSaWJrdI/wB3HA4wyAHv7+tYWKADB96KTbRQAten/DXwLG9vHq+oRiRm5t4XGQB/fI7+35+leeaLp51XV7OzzgTyqhI7Ank/lX0ZFCkESxoAiIAqqOgA6CgB+DRzSYoAoA5jxr4Kg8T2byRqseoxrmOUcbv9lvUfyrw6WJ4JXjkUpIhKsp4II6g19MAV4t8U9KXT/E7TRjal1GJTjpu6H+WfxoA478RRSfjRQB0PgHnxhpn/AF0P/oJr3r1oooAO1KOlFFAAvSvKvjL/AMfmmf8AXOT+YoooA84zRRRQB//Z</value>
+      <webElementGuid>c2b072ac-17b0-450f-b2e1-e290373a0382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/main[@class=&quot;d3KUA&quot;]/div[@class=&quot;cHndV&quot;]/div[2]/table[@class=&quot;JxWTa&quot;]/tbody[1]/tr[@class=&quot;xagVG&quot;]/td[@class=&quot;qIBX3 vpuDG&quot;]/a[1]/img[@class=&quot;ZE3K_&quot;]</value>
+      <webElementGuid>e3ee46b0-da9a-41ce-9214-4a4036b0b06a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/main/div[2]/div[2]/table/tbody/tr[9]/td/a/img</value>
+      <webElementGuid>67a167ea-2812-41a1-b022-823d444d0a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Profile picture'])[9]</value>
+      <webElementGuid>3f893376-579c-4fc3-b977-26661ea92cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td/a/img</value>
+      <webElementGuid>7edfced4-28e2-4d74-baf7-4aa64fe15143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Profile picture' and @src = 'data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAMgAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+uKKT8akt4JLqeOGJTJLIwRFHUk8AUAR0V7N4b+F+m6bbI+oIt9eEZbef3an0A7/AFP6Vo6n8PdC1KAp9jS1fHyyW/yEfgOD+IoA8IorV8S+Hp/DOqyWc7bwBujkAwHU9DWV+NABx60UfjRQAYNdJ8OUjbxlpwl6AuRn+9sbH61zeDU1ldy2F3DcwNsmicOjehBoA+lMcUAVl+GtabX9KiuntZbR2HzJIpAJ9VPcVo3E32eCSUo7hAW2xqWY+wHc0Aea/GdI86U3/LX94Pfb8teZYNbvjPxBP4i1uSaWJrdI/wB3HA4wyAHv7+tYWKADB96KTbRQAten/DXwLG9vHq+oRiRm5t4XGQB/fI7+35+leeaLp51XV7OzzgTyqhI7Ank/lX0ZFCkESxoAiIAqqOgA6CgB+DRzSYoAoA5jxr4Kg8T2byRqseoxrmOUcbv9lvUfyrw6WJ4JXjkUpIhKsp4II6g19MAV4t8U9KXT/E7TRjal1GJTjpu6H+WfxoA478RRSfjRQB0PgHnxhpn/AF0P/oJr3r1oooAO1KOlFFAAvSvKvjL/AMfmmf8AXOT+YoooA84zRRRQB//Z']</value>
+      <webElementGuid>30140f2f-6fd1-4783-961a-222d0b949727</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

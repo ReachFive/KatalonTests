@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select user events types_css-10j1lnc-in_e6b1a7</name>
+   <tag></tag>
+   <elementGuidId>3867a4c0-9ba1-4645-a186-69c986c47a79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-10j1lnc-indicatorContainer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popup-layer']/div/div/div/div[5]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.css-10j1lnc-indicatorContainer</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07a9676b-cdef-4a9d-bd95-4eeb1670f307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-10j1lnc-indicatorContainer</value>
+      <webElementGuid>d802820d-3615-4718-8d90-d95cace3a4d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a30b29a5-7063-4b8f-b1c8-f890b38f6ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup-layer&quot;)/div[@class=&quot;COmzk&quot;]/div[@class=&quot;biIbb EU84j&quot;]/div[@class=&quot;oZAtY&quot;]/div[@class=&quot;C1YWr&quot;]/div[@class=&quot;fDLY0&quot;]/div[@class=&quot;css-rrqrte-container&quot;]/div[@class=&quot;css-sqmpgx-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-10j1lnc-indicatorContainer&quot;]</value>
+      <webElementGuid>64d3087f-ff21-4fdc-9386-972388840e0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popup-layer']/div/div/div/div[5]/div/div/div/div[2]/div</value>
+      <webElementGuid>be862fc3-f966-4c74-a629-6aed313ed710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select user events types'])[1]/following::div[3]</value>
+      <webElementGuid>d804514a-30a6-4e88-9a62-89026ddf9329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_recovery_requested, 1 of 35.'])[1]/following::div[6]</value>
+      <webElementGuid>37e46ab3-0eee-4040-b4ed-41a8b98733a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_recovery_requested'])[1]/preceding::div[1]</value>
+      <webElementGuid>c3c36cb7-0da9-48bd-b30f-b3998fbc76c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='email_failure'])[1]/preceding::div[2]</value>
+      <webElementGuid>9dc4a9bd-93e5-4940-89bb-f152ecd964dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]/div</value>
+      <webElementGuid>c2395b84-fc60-4b42-8d80-414e088b2758</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
