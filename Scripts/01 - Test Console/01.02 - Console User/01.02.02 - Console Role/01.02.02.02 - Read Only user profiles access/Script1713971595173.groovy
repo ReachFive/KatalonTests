@@ -37,7 +37,7 @@ WebUI.click(findTestObject('R5_console_Login/button_Log in'))
 
 WebUI.click(findTestObject('ProfilePageSearch/a_Profiles'))
 
-WebUI.click(findTestObject('Object Repository/bin/Page_Console - ReachFive/input_Filter_Nr7Ji CVfQQ'))
+WebUI.click(findTestObject('Object Repository/ProfilePageSearch/Profile_boxe_search'))
 
 WebUI.setText(findTestObject('ProfilePageSearch/SearchProfilFilter'), 'User_Role_tests@gmail.com')
 
