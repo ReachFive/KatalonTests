@@ -14,4 +14,4 @@ jobs:
       with:
           version: '9.4.0'
           projectPath: '${{ github.workspace }}'
-          args: '-noSplash -runMode=console -retry=0 -browserType="TestCloud" -testcloudEnvironmentId="377" -testcloudTunnel="false" -statusDelay=15 -testSuiteCollectionPath="Test Suites/Test Suite Collection 1" -executionProfile="integ" -apiKey=${{secrets.KATALON_PBA_API_KEY}} -testOpsReleaseId=658459 -testOpsProjectId=1423873 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -webui.autoUpdateDrivers=true'
+          args: '-noSplash -retry=0 -browserType="TestCloud" -testcloudEnvironmentId="377" -testcloudTunnel="false" -statusDelay=15 -testSuiteCollectionPath="Test Suites/Test Suite Collection 1" -executionProfile="integ" -apiKey=${{secrets.KATALON_PBA_API_KEY}} -testOpsReleaseId=658459 -testOpsProjectId=1423873 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -webui.autoUpdateDrivers=true'
