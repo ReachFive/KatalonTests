@@ -1,0 +1,17 @@
+name: Katalon Test Suite Collection (testcloud)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    - name: Katalon Studio Github Action
+      uses: katalon-studio/katalon-studio-github-action@v3.0
+      with:
+          version: '9.4.0'
+          projectPath: '${{ github.workspace }}'
+          args: '-noSplash -retry=0 -browserType="TestCloud" -testcloudEnvironmentId="377" -testcloudTunnel="false" -statusDelay=15 -testSuiteCollectionPath="Test Suites/Test Suite Collection 1" -executionProfile="default" -apiKey="ff593fc7-42bb-4506-b45d-f4377cbf0e47" -testOpsReleaseId=658459 -testOpsProjectId=1423873 --config -webui.autoUpdateDrivers=true'
