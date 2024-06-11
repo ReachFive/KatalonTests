@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies that when modifying a custom field value its id stays in snake_case not in camelCase</description>
+   <name>01.01.04 - ProfileCustomFieldFormat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ab1ba81-64c5-48be-bbf7-7afde00b5073</testCaseGuid>
+</TestCaseEntity>

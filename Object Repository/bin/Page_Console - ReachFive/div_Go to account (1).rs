@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Go to account (1)</name>
+   <tag></tag>
+   <elementGuidId>940b5f4d-85fb-47ea-9eb4-576dfd3637b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-hlgwow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/header/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Go to account$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f52ed827-6aab-44f3-9a9c-1c000085dbd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-hlgwow</value>
+      <webElementGuid>46022d80-5eaa-48de-99e4-c95b077af4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go to account</value>
+      <webElementGuid>3eb3837e-1d39-449e-8979-1f019aa422f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/header[@class=&quot;UOkzl&quot;]/div[@class=&quot;maUyO&quot;]/div[@class=&quot;D6HWT&quot;]/div[@class=&quot;css-1jdmikc-container&quot;]/div[@class=&quot;css-zi0vkq-control&quot;]/div[@class=&quot;css-hlgwow&quot;]</value>
+      <webElementGuid>cb36c108-2c36-4a9c-b90e-529f6f306ffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/header/div/div/div/div/div</value>
+      <webElementGuid>01176c9a-3634-4262-a5ae-86646abecdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-account-azure, 1 of 28.'])[1]/following::div[2]</value>
+      <webElementGuid>f8b76119-1b91-49a3-9222-feb424a934d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IP Blacklist'])[1]/following::div[5]</value>
+      <webElementGuid>6a8d4017-e7a5-4a9d-aa11-b99620a5ce25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-account-azure'])[1]/preceding::div[5]</value>
+      <webElementGuid>520b1d55-5948-4585-8c15-ad266b039604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>508afe7b-fefa-4979-b163-9bfeb4dd4eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Go to account' or . = 'Go to account')]</value>
+      <webElementGuid>4bc29c4a-8668-425d-b034-d02c36aa477b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

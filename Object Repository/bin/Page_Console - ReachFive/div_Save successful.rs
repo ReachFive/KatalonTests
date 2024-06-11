@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Save successful</name>
+   <tag></tag>
+   <elementGuidId>7ec52f04-9794-4c8e-ba0d-3e6b803be748</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Toastify__toast-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'Toastify__toast-body' and (text() = 'Save successful' or . = 'Save successful')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Save successful&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9d488ab6-b92d-4de1-8ffe-59e4c3db87e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>22afac05-1c69-41f0-ba84-29e09f37894a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toastify__toast-body</value>
+      <webElementGuid>3cab611f-3c66-4edc-bd64-1a934244aaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save successful</value>
+      <webElementGuid>7e35b92f-010a-4529-824d-512359a9c901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/div[@class=&quot;Toastify&quot;]/div[@class=&quot;Toastify__toast-container Toastify__toast-container--bottom-right&quot;]/div[@class=&quot;Toastify__toast Toastify__toast--success&quot;]/div[@class=&quot;Toastify__toast-body&quot;]</value>
+      <webElementGuid>8a2214d9-caf3-4605-821d-3a81a4002874</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/div/div/div/div</value>
+      <webElementGuid>a52e604b-8880-4ddd-9ceb-f403f7dddce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[1]/preceding::div[1]</value>
+      <webElementGuid>184eca66-49fe-4206-8d66-df820eab3e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[2]</value>
+      <webElementGuid>12114a94-1fa6-49a5-8de5-d14b4a97a83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save successful']/parent::*</value>
+      <webElementGuid>91867381-1bd6-44d0-befe-ad3f4a8cd2d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>86d92bd0-b70b-432a-8666-af90a75d3076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Save successful' or . = 'Save successful')]</value>
+      <webElementGuid>791ec432-ad5a-4956-8e16-c3f1b512e22a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

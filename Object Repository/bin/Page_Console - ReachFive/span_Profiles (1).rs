@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profiles (1)</name>
+   <tag></tag>
+   <elementGuidId>e24c3424-16c8-492b-897e-020337fa760f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-scope > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section[2]/div/div/nav/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Profiles&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f47b8897-08d5-4b0c-bc78-6257c3dfac58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profiles</value>
+      <webElementGuid>fbd053eb-efd2-4639-b0be-ad142be09c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;app-aside hidden-xs bg-dark ng-scope&quot;]/div[@class=&quot;aside-wrap ng-scope&quot;]/div[@class=&quot;navi-wrap&quot;]/nav[@class=&quot;navi clearfix&quot;]/ul[@class=&quot;nav&quot;]/li[2]/a[@class=&quot;ng-scope&quot;]/span[1]</value>
+      <webElementGuid>0f88e08f-24b8-4bf9-8eb3-da3cedb81b5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section[2]/div/div/nav/ul/li[2]/a/span</value>
+      <webElementGuid>d6e4671f-f6da-452d-80e7-436d91401897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
+      <webElementGuid>422dea0a-7930-4e6a-9a87-b9d350b71641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::span[2]</value>
+      <webElementGuid>d85c991f-131e-43aa-ab09-e0051a03f6ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent activity filters'])[1]/preceding::span[1]</value>
+      <webElementGuid>2cbe9d5e-6499-4f31-b1aa-d009b6d84867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/preceding::span[3]</value>
+      <webElementGuid>91691049-c785-4754-b726-4fd88784dc46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profiles']/parent::*</value>
+      <webElementGuid>bc8a3361-02f2-48b7-a336-a17d74e09089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>3925c895-a656-44ed-a2b9-09aab9aa5225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Profiles' or . = 'Profiles')]</value>
+      <webElementGuid>f216db37-2962-4b55-8691-11b446674570</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

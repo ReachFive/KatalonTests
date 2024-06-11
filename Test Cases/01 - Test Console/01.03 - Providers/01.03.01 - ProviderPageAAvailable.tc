@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>The test case verifies that the profile page is correctly displayed</description>
+   <description>The test case verifies that the provider page is correctly displayed</description>
    <name>01.03.01 - ProviderPageAAvailable</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>bfc3479d-b766-4fc1-a52c-a746dde79e3a</testCaseGuid>
 </TestCaseEntity>

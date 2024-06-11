@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Filter_Nr7Ji CVfQQ</name>
+   <tag></tag>
+   <elementGuidId>7e7e1ae5-70fe-4ee3-bc4c-2e27defe6d5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.Nr7Ji.CVfQQ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search by name, email, phone number, external ID, custom ID or ID&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>aeba265d-146d-4ec7-8369-9de5b2072018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2525c541-4b26-494d-a0f6-2617f7242c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by name, email, phone number, external ID, custom ID or ID</value>
+      <webElementGuid>7b9cfc9b-34a6-4f24-b51f-fbf20381c045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Nr7Ji CVfQQ</value>
+      <webElementGuid>5c2fafd6-9fe6-40c0-a351-0aa97da413bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-layer&quot;)/main[@class=&quot;d3KUA&quot;]/div[@class=&quot;cHndV&quot;]/div[@class=&quot;wKnEZ&quot;]/div[@class=&quot;Wb55R&quot;]/input[@class=&quot;Nr7Ji CVfQQ&quot;]</value>
+      <webElementGuid>8d7df675-9e15-4998-af1f-8746d412e3da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>d19eb734-a62a-42ce-8cfa-9403aa14025e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-layer']/main/div[2]/div/div/input</value>
+      <webElementGuid>45515a6e-1f42-42a5-988a-affd65ccb579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>b8ce5dd4-2f5a-417d-93e1-17c6e6c92322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search by name, email, phone number, external ID, custom ID or ID']</value>
+      <webElementGuid>3024c287-5353-402e-bd71-bbef43447d07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
