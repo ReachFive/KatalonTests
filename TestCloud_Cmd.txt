@@ -1,0 +1,27 @@
+MacOS/Safari 17 in Integ:
+
+./katalonc -noSplash -runMode=console -projectPath="/Users/nawelmele/Desktop/reachfive-github/KatalonTests/R5_CICD_Tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Test collection Console R5" -browserType="TestCloud" -testcloudEnvironmentId="339" -testcloudTunnel="false" -executionProfile="Integ" -apiKey="ba85bb6c-cbc8-4f51-9192-0ebff3021531" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true
+
+
+MacOS/Safari 16 in Integ:
+
+./katalonc -noSplash -runMode=console -projectPath="/Users/nawelmele/Desktop/reachfive-github/KatalonTests/R5_CICD_Tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Test collection Console R5" -browserType="TestCloud" -testcloudEnvironmentId="107" -testcloudTunnel="false" -executionProfile="Integ" -apiKey="ba85bb6c-cbc8-4f51-9192-0ebff3021531" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true
+
+MacOs/Chrome 124 in Integ:
+
+./katalonc -noSplash -runMode=console -projectPath="/Users/nawelmele/Desktop/reachfive-github/KatalonTests/R5_CICD_Tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Test collection Console R5" -browserType="TestCloud" -testcloudEnvironmentId="377" -testcloudTunnel="false" -executionProfile="Integ" -apiKey="ba85bb6c-cbc8-4f51-9192-0ebff3021531" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true
+
+Windows/Chrome 124 in 	Integ
+
+./katalonc -noSplash -runMode=console -projectPath="/Users/nawelmele/Desktop/reachfive-github/KatalonTests/R5_CICD_Tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Test collection Console R5" -browserType="TestCloud" -testcloudEnvironmentId="372" -testcloudTunnel="false" -executionProfile="Integ" -apiKey="ba85bb6c-cbc8-4f51-9192-0ebff3021531" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true
+
+
+Windows/Firefox 124 in Integ:
+
+./katalonc -noSplash -runMode=console -projectPath="/Users/nawelmele/Desktop/reachfive-github/KatalonTests/R5_CICD_Tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Test collection Console R5" -browserType="TestCloud" -testcloudEnvironmentId="373" -testcloudTunnel="false" -executionProfile="Integ" -apiKey="ba85bb6c-cbc8-4f51-9192-0ebff3021531" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true
+
+
+
+'-noSplash -retry=0 -browserType="TestCloud" -testcloudEnvironmentId="377" -testcloudTunnel="false" -statusDelay=15 -executionProfile="integ" -testSuitePath="Test Suites/HP Test Suite" -orgID=1450756 -apiKey=${{secrets.KATALON_API_KEY}} -testOpsReleaseId=658459 -testOpsProjectId=1423873 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -webui.autoUpdateDrivers=true'
+
+

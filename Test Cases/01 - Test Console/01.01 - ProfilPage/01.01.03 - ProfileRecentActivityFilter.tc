@@ -4,5 +4,6 @@
    <name>01.01.03 - ProfileRecentActivityFilter</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>0e2c3688-a2e6-46b6-b232-9092e9c3dc71</testCaseGuid>
 </TestCaseEntity>

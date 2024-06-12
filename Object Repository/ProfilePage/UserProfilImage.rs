@@ -6,16 +6,16 @@
    <elementGuidId>c5b19e45-768d-445d-85dc-a766349706df</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-layer']/main/div[2]/div[2]/table/tbody/tr/td/a/img</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
-         <value>id(&quot;base-layer&quot;)/main[@class=&quot;d3KUA&quot;]/div[@class=&quot;cHndV&quot;]/div[2]/table[@class=&quot;JxWTa&quot;]/tbody[1]/tr[@class=&quot;xagVG&quot;]/td[@class=&quot;qIBX3 vpuDG&quot;]/a[1]/img[@class=&quot;ZE3K_&quot;][count(. | //*[@alt = 'Profile picture']) = count(//*[@alt = 'Profile picture'])]</value>
+         <value>//*[@class = 'ZE3K_' and @alt = 'Profile picture']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>img.ZE3K_</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='base-layer']/main/div[2]/div[2]/table/tbody/tr/td/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -33,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>976f8aec-7ab8-4cd5-9ece-e8e7e53d76b2</webElementGuid>
+      <webElementGuid>127e2719-4e6d-4eec-b1b3-4524b097b359</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>ZE3K_</value>
-      <webElementGuid>bca49c93-8b25-44ca-ac15-f2cf72681ece</webElementGuid>
+      <webElementGuid>c325a89a-3fef-4151-abd9-334adc13f74f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Profile picture</value>
-      <webElementGuid>9361e4b8-f3c6-4e09-93dc-ca6589313830</webElementGuid>
+      <webElementGuid>4532e929-e150-4997-b852-6f2d46dbd779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,15 +57,15 @@
       <name>src</name>
       <type>Main</type>
       <value>data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAMgAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+uKKT8akt4JLqeOGJTJLIwRFHUk8AUAR0V7N4b+F+m6bbI+oIt9eEZbef3an0A7/AFP6Vo6n8PdC1KAp9jS1fHyyW/yEfgOD+IoA8IorV8S+Hp/DOqyWc7bwBujkAwHU9DWV+NABx60UfjRQAYNdJ8OUjbxlpwl6AuRn+9sbH61zeDU1ldy2F3DcwNsmicOjehBoA+lMcUAVl+GtabX9KiuntZbR2HzJIpAJ9VPcVo3E32eCSUo7hAW2xqWY+wHc0Aea/GdI86U3/LX94Pfb8teZYNbvjPxBP4i1uSaWJrdI/wB3HA4wyAHv7+tYWKADB96KTbRQAten/DXwLG9vHq+oRiRm5t4XGQB/fI7+35+leeaLp51XV7OzzgTyqhI7Ank/lX0ZFCkESxoAiIAqqOgA6CgB+DRzSYoAoA5jxr4Kg8T2byRqseoxrmOUcbv9lvUfyrw6WJ4JXjkUpIhKsp4II6g19MAV4t8U9KXT/E7TRjal1GJTjpu6H+WfxoA478RRSfjRQB0PgHnxhpn/AF0P/oJr3r1oooAO1KOlFFAAvSvKvjL/AMfmmf8AXOT+YoooA84zRRRQB//Z</value>
-      <webElementGuid>5b00f76c-0423-440a-a750-fc2aaa521589</webElementGuid>
+      <webElementGuid>6aa5b6d6-12e7-48f1-95e2-6e837f7bc760</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;base-layer&quot;)/main[@class=&quot;d3KUA&quot;]/div[@class=&quot;cHndV&quot;]/div[2]/table[@class=&quot;JxWTa&quot;]/tbody[1]/tr[@class=&quot;xagVG&quot;]/td[@class=&quot;qIBX3 vpuDG&quot;]/a[1]/img[@class=&quot;ZE3K_&quot;]</value>
-      <webElementGuid>d5aa6e1a-9662-49ef-99fe-65b463b946a4</webElementGuid>
+      <webElementGuid>dff5dd48-3171-429e-926c-0779ac62ebbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='base-layer']/main/div[2]/div[2]/table/tbody/tr/td/a/img</value>
-      <webElementGuid>47b41683-2ed1-44db-b939-901cff49eca6</webElementGuid>
+      <webElementGuid>d8767935-7012-48eb-850a-740fd7e051ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Profile picture']</value>
-      <webElementGuid>dca2e703-2eb1-4b01-a436-26f81c3ede11</webElementGuid>
+      <webElementGuid>8e18822a-a81e-40dd-9c0e-f84d93df4465</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/img</value>
-      <webElementGuid>82979e11-b120-46dc-bb49-7e11f678ee81</webElementGuid>
+      <webElementGuid>fb83e0e0-f4c6-43eb-a277-8771d3e839f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Profile picture' and @src = 'data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAMgAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+uKKT8akt4JLqeOGJTJLIwRFHUk8AUAR0V7N4b+F+m6bbI+oIt9eEZbef3an0A7/AFP6Vo6n8PdC1KAp9jS1fHyyW/yEfgOD+IoA8IorV8S+Hp/DOqyWc7bwBujkAwHU9DWV+NABx60UfjRQAYNdJ8OUjbxlpwl6AuRn+9sbH61zeDU1ldy2F3DcwNsmicOjehBoA+lMcUAVl+GtabX9KiuntZbR2HzJIpAJ9VPcVo3E32eCSUo7hAW2xqWY+wHc0Aea/GdI86U3/LX94Pfb8teZYNbvjPxBP4i1uSaWJrdI/wB3HA4wyAHv7+tYWKADB96KTbRQAten/DXwLG9vHq+oRiRm5t4XGQB/fI7+35+leeaLp51XV7OzzgTyqhI7Ank/lX0ZFCkESxoAiIAqqOgA6CgB+DRzSYoAoA5jxr4Kg8T2byRqseoxrmOUcbv9lvUfyrw6WJ4JXjkUpIhKsp4II6g19MAV4t8U9KXT/E7TRjal1GJTjpu6H+WfxoA478RRSfjRQB0PgHnxhpn/AF0P/oJr3r1oooAO1KOlFFAAvSvKvjL/AMfmmf8AXOT+YoooA84zRRRQB//Z']</value>
-      <webElementGuid>5406e052-5f92-4568-a444-25564d328ebe</webElementGuid>
+      <webElementGuid>363e3f0b-e52c-45d3-a6ed-870b02149277</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

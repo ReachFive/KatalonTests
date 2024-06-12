@@ -49,6 +49,8 @@ WebUI.click(findTestObject('Object Repository/ProfilePageSearch/Profile_boxe_sea
 
 WebUI.setText(findTestObject('ProfilePageSearch/SearchProfilFilter'), 'KatalonUserGenerale@gmail.com')
 
+WebUI.delay(3)
+
 WebUI.click(findTestObject('Object Repository/ProfilePage/UserProfilImage'))
 
 String RecentActivity = WebUI.getText(findTestObject('Object Repository/ProfilePage/div_Recent activity'))
@@ -127,25 +129,29 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/ProfilePageSearch/Recent_ActivityFilter_Boxe_div_None'))
 
-
 WebUI.click(findTestObject('Object Repository/ProfilePageSearch/Recent_Activity_Filter_div_Select user events'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/ProfilePageSearch/Recent_Activity_SelectionEvents_div_managed_user_created'), 3)
+WebUI.scrollToElement(findTestObject('Object Repository/ProfilePageSearch/Recent_Activity_SelectionEvents_div_managed_user_created'), 
+    3)
 
 WebUI.click(findTestObject('Object Repository/ProfilePageSearch/Recent_Activity_SelectionEvents_div_managed_user_created'))
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/bin/Page_Console - ReachFive/div_Descending_css-19bb58m'))
-
 
 WebUI.scrollToElement(findTestObject('Object Repository/ProfilePageSearch/RecentActivityFilter_Order_div_Ascending'), 3)
 
 WebUI.click(findTestObject('Object Repository/ProfilePageSearch/RecentActivityFilter_Order_div_Ascending'))
 
+WebUI.delay(5)
+
 
 WebUI.click(findTestObject('ProfilePageSearch/Recent_Activity_span_Apply'))
 
-WebUI.delay(3)
+
 WebUI.verifyTextPresent('Authenticated profile (managed)', false)
 
 WebUI.closeBrowser()
+
+
 
