@@ -3,11 +3,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 3 * * *'
-    
-   concurrency:
+
+concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: true
-  
+      cancel-in-progress: true  
 jobs:
   build:
     runs-on: windows-latest
