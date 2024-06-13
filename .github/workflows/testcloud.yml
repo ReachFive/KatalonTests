@@ -10,7 +10,7 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        OsBrowser: [339,107,377,372,373]
+        OsBrowser: [377,107,339,372,373]
     steps:
     - name: Checkout
       uses: actions/checkout@v4
