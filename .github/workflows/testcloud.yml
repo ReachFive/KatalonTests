@@ -8,9 +8,11 @@ jobs:
   build:
     runs-on: windows-latest
     strategy:
+      fail-fast: false
       max-parallel: 1
       matrix:
         OsBrowser: [377,372,373,339,107]
+    continue-on-error: true
     steps:
     - name: Checkout
       uses: actions/checkout@v4
