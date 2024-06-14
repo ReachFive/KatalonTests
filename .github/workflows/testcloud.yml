@@ -26,6 +26,8 @@ jobs:
     runs-on: ${{ matrix.os }}
     continue-on-error: true
     steps:
+    - name: Get Info 
+      run: echo "${{ matrix.os }}- ${{ matrix.OsBrowser }}"
     - name: Checkout
       uses: actions/checkout@v4
     - name: Katalon Studio Github Action
