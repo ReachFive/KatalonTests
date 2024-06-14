@@ -6,12 +6,13 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
     strategy:
       fail-fast: false
       max-parallel: 1
       matrix:
+        os: [macos-latest, windows-latest, windows-latest, macos-latest, macos-latest]
         OsBrowser: [377,372,373,339,107]
+    runs-on: ${{ matrix.os }}
     continue-on-error: true
     steps:
     - name: Checkout
