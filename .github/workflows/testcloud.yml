@@ -6,6 +6,7 @@ on:
 
 jobs:
   build:
+    runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
       max-parallel: 1
@@ -22,7 +23,6 @@ jobs:
           - os:  windows-latest
             OsBrowser: 373
           
-    runs-on: ${{ matrix.os }}
     continue-on-error: true
     steps:
     - name: Get Info 
