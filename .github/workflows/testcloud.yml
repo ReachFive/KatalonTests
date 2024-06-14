@@ -10,8 +10,19 @@ jobs:
       fail-fast: false
       max-parallel: 1
       matrix:
-        os: [macos-latest, windows-latest, windows-latest, macos-latest, macos-latest]
         OsBrowser: [377,372,373,339,107]
+        include:
+          - os: macos-latest
+            OsBrowser: 377
+          - os: macos-latest
+            OsBrowser: 339
+          - os: macos-latest
+            OsBrowser: 107
+          - os:  windows-latest
+            OsBrowser: 372
+          - os:  windows-latest
+            OsBrowser: 373
+          
     runs-on: ${{ matrix.os }}
     continue-on-error: true
     steps:
