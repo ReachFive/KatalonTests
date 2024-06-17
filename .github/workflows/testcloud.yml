@@ -6,22 +6,12 @@ on:
 
 jobs:
   build:
-    runs-on: ${{ matrix.os }}
+    runs-on: windows-latest
     strategy:
       fail-fast: false
       max-parallel: 1
       matrix:
-        include:
-          - os: macos-latest
-            OsBrowser: 377
-          - os: macos-latest
-            OsBrowser: 339
-          - os: macos-latest
-            OsBrowser: 107
-          - os:  windows-latest
-            OsBrowser: 372
-          - os:  windows-latest
-            OsBrowser: 373
+        OsBrowser: [339,107,377,372,373]
           
     continue-on-error: true
     steps:
