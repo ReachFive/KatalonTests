@@ -24,4 +24,4 @@ jobs:
       with:
           version: '9.5.0'
           projectPath: '${{ github.workspace }}'
-          args: '-noSplash -retry=0 -browserType="TestCloud" -testcloudEnvironmentId="${{matrix.OsBrowser}}" -testcloudTunnel="false" -statusDelay=15 -executionProfile="integ" -testSuiteCollectionPath="Test Suites/Test collection Console R5" -orgID=1450756 -apiKey=${{secrets.KATALON_API_KEY}} -testOpsReleaseId=658459 -testOpsProjectId=1423873 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -webui.autoUpdateDrivers=true'
+          args: '-noSplash -retry=0 -browserType="TestCloud" -testcloudEnvironmentId="${{matrix.OsBrowser}}" -testcloudTunnel="false" -statusDelay=15 -executionProfile="integ" -testSuiteCollectionPath="Test Suites/HP Test Suite" -orgID=1450756 -apiKey=${{secrets.KATALON_API_KEY}} -testOpsReleaseId=658459 -testOpsProjectId=1423873 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -webui.autoUpdateDrivers=true'
