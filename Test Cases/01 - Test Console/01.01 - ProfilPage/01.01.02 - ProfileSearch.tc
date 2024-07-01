@@ -8,5 +8,6 @@
    <name>01.01.02 - ProfileSearch</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>e9266eee-511f-4f80-92e3-a835136bde32</testCaseGuid>
 </TestCaseEntity>
