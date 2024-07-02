@@ -1,0 +1,27 @@
+name: Katalon Test Suite Collection (testcloud)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  build:
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        OsBrowser: [339,107,377,372,373]
+          
+    continue-on-error: true
+    steps:
+    - name: Get Info 
+      run: echo "${{ matrix.os }} - ${{ matrix.OsBrowser }}"
+    - name: Checkout
+      uses: actions/checkout@v4
+    - name: Katalon Studio Github Action
+      uses: katalon-studio/katalon-studio-github-action@v3.0
+      with:
+          version: '9.5.0'
+          projectPath: '${{ github.workspace }}'
+          args: '-noSplash -retry=0 -testcloudTunnel="false" -statusDelay=15 -executionProfile="integ" -testSuitePath="Test Suites/Console Profil page Test Suite"  -orgID=1450756 -apiKey=${{secrets.KATALON_API_KEY}} -testOpsReleaseId=658459 -testOpsProjectId=1423873 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -webui.autoUpdateDrivers=true'
