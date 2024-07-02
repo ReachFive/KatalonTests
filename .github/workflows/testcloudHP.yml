@@ -1,4 +1,4 @@
-name: Katalon Test Suite Collection (testcloud)
+name: Katalon Test Suite HP (testcloud)
 on:
   workflow_dispatch:
   schedule:
