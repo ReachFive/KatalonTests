@@ -1,4 +1,4 @@
-name: Katalon Test Suite Collection (testcloud)
+name: Katalon Test Suite Console User (testcloud)
 on:
   workflow_dispatch:
   schedule:
