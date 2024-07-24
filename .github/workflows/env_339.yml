@@ -1,4 +1,4 @@
-name: Katalon Test Suite Collection Console R5 env 339
+name: Katalon Env 339 Test Suite Collection Console R5 ≈
 on:
   workflow_dispatch:
   schedule:
