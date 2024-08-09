@@ -4,5 +4,6 @@
    <name>02.01 - HP LoginSignUpPagesNoError</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>3875e685-8b12-46ad-a4d8-5d8824fa28e0</testCaseGuid>
 </TestCaseEntity>

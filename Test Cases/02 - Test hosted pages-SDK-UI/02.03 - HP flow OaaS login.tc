@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The test case verifies that the login through OaaS flow is working</description>
+   <name>02.03 - HP flow OaaS login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18ece949-cd41-465e-a893-9a1267358b4b</testCaseGuid>
+</TestCaseEntity>

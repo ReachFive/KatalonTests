@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Third Party Client needs your permission _c5b3f6</name>
+   <tag></tag>
+   <elementGuidId>20546968-02c4-49ae-afdc-f7e338f6f53f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Third Party Client needs your permission to access your QA-nme-katalon-testing account.' or . = 'Third Party Client needs your permission to access your QA-nme-katalon-testing account.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='consent-accept']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Third Party Client needs your permission to access your QA-nme-katalon-testing a&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>950538df-b49f-4e12-a59a-c48179185d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Third Party Client needs your permission to access your QA-nme-katalon-testing account.</value>
+      <webElementGuid>e92a9435-82a4-46ed-b4d3-17391c8c1449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;consent-accept&quot;)/div[@class=&quot;consentsContainer&quot;]/div[@class=&quot;consentsIntro&quot;]/p[1]</value>
+      <webElementGuid>5fbd9a3d-db1b-4756-8694-f69e066dbc65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='consent-accept']/div/div/p</value>
+      <webElementGuid>233887ee-bac9-4457-a697-428173defe1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Third Party Client'])[2]/preceding::p[1]</value>
+      <webElementGuid>827a308b-cf97-4316-b8a3-111b53e510ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='needs your permission to access your QA-nme-katalon-testing account.']/parent::*</value>
+      <webElementGuid>dd0070ce-282a-4ad1-99ce-f35fa3669635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ca073286-867d-4cee-8c9e-54b80f8bfed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Third Party Client needs your permission to access your QA-nme-katalon-testing account.' or . = 'Third Party Client needs your permission to access your QA-nme-katalon-testing account.')]</value>
+      <webElementGuid>0d00e4ef-7e8f-4c4a-ad85-5703ea568f4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

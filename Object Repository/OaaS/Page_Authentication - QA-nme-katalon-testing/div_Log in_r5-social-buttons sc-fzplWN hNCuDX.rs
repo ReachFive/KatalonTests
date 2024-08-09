@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log in_r5-social-buttons sc-fzplWN hNCuDX</name>
+   <tag></tag>
+   <elementGuidId>ff900654-9dbf-4788-9efd-89202aace245</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.r5-social-buttons.sc-fzplWN.hNCuDX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-container']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.r5-social-buttons</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0087db86-e24f-4410-beb1-afcb1e6365ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>r5-social-buttons sc-fzplWN hNCuDX</value>
+      <webElementGuid>08189b02-4f0f-4ab8-b3de-7f3b49fb5515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-container&quot;)/div[@class=&quot;sc-AxmLO bRvQpG&quot;]/div[1]/div[@class=&quot;r5-social-buttons sc-fzplWN hNCuDX&quot;]</value>
+      <webElementGuid>836d4a78-ba31-4be7-a6f1-454035ba0010</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-container']/div/div/div[2]</value>
+      <webElementGuid>d4309104-a943-447b-85d1-648d6721a195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::div[1]</value>
+      <webElementGuid>6c2a8f65-1986-41b7-bb1c-77df926780dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::div[1]</value>
+      <webElementGuid>5df2af00-6bdd-4e1a-b49b-4ddd22a97e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address or phone number'])[1]/preceding::div[2]</value>
+      <webElementGuid>024097c6-e952-4cfc-aa96-5d2f593cf727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>73ba3014-9c64-4d6a-96ef-a8a06e8aa11e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -4,5 +4,6 @@
    <name>02.02 - HP Login_via_custom_identifier</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>f0194b8f-922f-4805-83ec-f8b0ec318d0c</testCaseGuid>
 </TestCaseEntity>

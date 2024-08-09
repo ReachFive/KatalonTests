@@ -29,4 +29,9 @@
       <initValue>'readonly_user_katalontesting@gmail.com\t'</initValue>
       <name>LonginReadOnlyUser</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://integ-qa-nme.reach5.net/oauth/authorize?client_id=yij1Dfjy9ttENyHoEQb7&amp;scope=openid%20email%20phone%20profile&amp;redirect_uri=https://reachfive.com/en/&amp;response_type=id_token'</initValue>
+      <name>OaaS_Flow_URL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

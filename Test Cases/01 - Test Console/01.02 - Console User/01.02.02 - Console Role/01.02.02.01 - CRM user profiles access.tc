@@ -4,5 +4,6 @@
    <name>01.02.02.01 - CRM user profiles access</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>35af6df2-ffe5-46dc-8c37-e5698c0f8716</testCaseGuid>
 </TestCaseEntity>

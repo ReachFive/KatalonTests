@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accept            Deny</name>
+   <tag></tag>
+   <elementGuidId>a41bf4ea-b46e-45ec-bc0f-1c0fa0138df9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+            Accept
+            Deny
+        ' or . = '
+            Accept
+            Deny
+        ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.consentsButtons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='consent-accept']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Accept Deny&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4046df3c-dc1d-4854-bd99-7a84d0c2be6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>consentsButtons</value>
+      <webElementGuid>09770fec-650b-429d-b548-1473b4a8ca02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Accept
+            Deny
+        </value>
+      <webElementGuid>047bd677-8465-4c66-8d05-e9143c52736b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;consent-accept&quot;)/div[@class=&quot;consentsButtons&quot;]</value>
+      <webElementGuid>c1f43655-cb9f-497b-9908-8f8a13dcad0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='consent-accept']/div[2]</value>
+      <webElementGuid>2c678485-30b5-488b-94e5-0beabef2937d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View your profile'])[1]/following::div[1]</value>
+      <webElementGuid>472a5249-df7b-449f-b0e2-81a82a75c4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View your Phone numbers'])[1]/following::div[1]</value>
+      <webElementGuid>b3f6912d-2a49-42c2-abb9-bf9452527c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/div[2]</value>
+      <webElementGuid>1b7b3791-856b-4c2e-9766-2d8052d8cf90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+            Accept
+            Deny
+        ' or . = '
+            Accept
+            Deny
+        ')]</value>
+      <webElementGuid>d849adc1-ba8c-4c4e-9535-053bff9618a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

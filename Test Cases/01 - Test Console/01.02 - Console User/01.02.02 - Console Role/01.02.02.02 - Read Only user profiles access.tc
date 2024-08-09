@@ -4,5 +4,6 @@
    <name>01.02.02.02 - Read Only user profiles access</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>40e980f6-4ddc-47a8-aa15-5fd2a92f4237</testCaseGuid>
 </TestCaseEntity>

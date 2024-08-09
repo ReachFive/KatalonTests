@@ -4,5 +4,6 @@
    <name>01.01.01 - PageProfilAAvailable</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>4eb1a172-1e61-41e4-91dd-ee0d8b9b9e6b</testCaseGuid>
 </TestCaseEntity>

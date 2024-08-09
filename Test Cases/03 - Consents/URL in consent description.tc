@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The test case verifies that we can have an URL with a - in the consent description</description>
+   <name>URL in consent description</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20ca1e9a-f140-4dc8-84e0-d0784283503c</testCaseGuid>
+</TestCaseEntity>
